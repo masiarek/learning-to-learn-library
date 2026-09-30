@@ -102,7 +102,7 @@ Section 4 shows where the problem comes from. If a task were as likely to finish
 
 "Your estimates will improve" only if you keep score. Section 5 records twenty past tasks, estimated and actual, and takes the average ratio, 1.35. Multiplying new estimates by it plans five tasks as 6.75 hours, and the chance the day fits goes from 7.8% to 56%. What remains is variation around the average, and that is what the buffer hour is for.
 
-This is [metacognition](../../01_Knowing_What_You_Know/metacognition/README.md) applied to time. In lesson 1, a student compares the confidence they wrote down with the answers they got, and corrects the confidence. Here, you compare the time you wrote down with the time it took, and correct the estimate. In both cases a feeling ("this will take an hour", "I know this") is a prediction, and a prediction can be checked.
+This is [metacognition](../../01_Knowing_What_You_Know/metacognition/README.md) applied to time. In [metacognition](../../01_Knowing_What_You_Know/metacognition/README.md), a student compares the confidence they wrote down with the answers they got, and corrects the confidence. Here, you compare the time you wrote down with the time it took, and correct the estimate. In both cases a feeling ("this will take an hour", "I know this") is a prediction, and a prediction can be checked.
 
 ## Try it
 

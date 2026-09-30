@@ -214,7 +214,7 @@ Pytanie kontrolne McGuire: czy bardziej byś się starał, żeby dostać piątk�
 ## See also
 
 - [Count the vowels](../count_the_vowels/README.md) — the lesson before: the task decides what you remember
-- [Spaced retrieval](../../02_Making_It_Stay/spaced_retrieval/README.md) — the lesson after: keeping what you learned, and McGuire's study cycle for climbing these levels
+- [Spaced retrieval](../../02_Making_It_Stay/spaced_retrieval/README.md) — the next chapter: keeping what you learned, and McGuire's study cycle for climbing these levels
 - [The Pythagorean theorem and its converse ↗](https://masiarek.github.io/math-learning-library/10_Geometry/pythagorean_theorem/) — the theorem this page climbs, taught in full
 - [If A then B ↗](https://masiarek.github.io/math-learning-library/11_Logic/converse_and_contrapositive/) — evaluating a claim: one counterexample disproves it
 - [Resources](../../RESOURCES.md) — the books behind this chapter

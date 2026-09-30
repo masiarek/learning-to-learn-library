@@ -170,7 +170,7 @@ Wyjścia są dwa i oba wpuszczają nowe dowody. Małe kroki: tanią próbę opł
 ## See also
 
 - [Metacognition: judging what you know](../../01_Knowing_What_You_Know/metacognition/README.md) — the same loop turned round: a feeling of knowing that stops you testing yourself
-- [Day or night: perspective taking](../day_or_night/README.md) — the chapter-2 lesson before this one
+- [Day or night: perspective taking](../day_or_night/README.md) — the other lesson of this chapter, from Zakrajsek's chapter 1
 - [Probability zero ↗](https://masiarek.github.io/math-learning-library/02_Measure_Zero/probability_zero/) — why a chance of 0 is a strong claim, and one failure does not justify it
 - [Learned helplessness ↗](https://en.wikipedia.org/wiki/Learned_helplessness) and [Rule of succession ↗](https://en.wikipedia.org/wiki/Rule_of_succession) — Wikipedia
 - [Explore–exploit dilemma ↗](https://en.wikipedia.org/wiki/Exploration-exploitation_dilemma) — the same trap in machine learning: an agent that never explores never learns an option improved

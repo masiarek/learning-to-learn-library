@@ -258,7 +258,7 @@ Miarą jest wynik Briera: średnia z (pewność − wynik)². Ma on ważną cech
 ## See also
 
 - [`study_inventory.py`](examples/study_inventory.py) — McGuire's behavior inventory, scored for your own answers
-- [Spaced retrieval](../../02_Making_It_Stay/spaced_retrieval/README.md) — the next lesson: why testing yourself also makes you remember, and how to space the tests
+- [Spaced retrieval](../../02_Making_It_Stay/spaced_retrieval/README.md) — the next chapter: why testing yourself also makes you remember, and how to space the tests
 - [If A then B ↗](https://masiarek.github.io/math-learning-library/11_Logic/converse_and_contrapositive/) — "many examples prove nothing": the same distrust of a feeling of certainty, applied to theorems
 - [Resources](../../RESOURCES.md) — the books behind this chapter
 - Saundra Yancy McGuire with Stephanie McGuire, *Teach Yourself How to Learn: Strategies You Can Use to Ace Any Course at Any Level* (Stylus, 2018), chapter 3 and Figure 3.2

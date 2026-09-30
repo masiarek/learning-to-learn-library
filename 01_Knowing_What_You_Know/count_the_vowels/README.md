@@ -196,7 +196,7 @@ Pamięć zatrzymuje to, co robiliśmy z materiałem, a nie to, co przesunęło s
 ## See also
 
 - [Metacognition: judging what you know](../metacognition/README.md) — the lesson before: how to find out that the first attempt went badly before the exam does
-- [Spaced retrieval](../../02_Making_It_Stay/spaced_retrieval/README.md) — the lesson after: once it is understood, how to keep it
+- [Spaced retrieval](../../02_Making_It_Stay/spaced_retrieval/README.md) — the next chapter: once it is understood, how to keep it
 - [Significant figures ↗](https://masiarek.github.io/math-learning-library/01_Precision/significant_figures/) — two rules that turn out to be one principle
 - [Resources](../../RESOURCES.md) — the books behind this chapter
 - Saundra Yancy McGuire with Stephanie McGuire, *Teach Yourself How to Learn* (Stylus, 2018), chapter 3, "Count the Vowels", Figure 3.3
