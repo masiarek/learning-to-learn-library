@@ -87,13 +87,14 @@ NAV_ORDER: dict[str, list[str]] = {
         "studying_vs_learning",
     ],
     # How to learn so that it stays: spacing that keeps a fact cheaply, the
-    # step a blocked practice sheet lets you skip, and the four-chunk budget
-    # that practice widens.
+    # step a blocked practice sheet lets you skip, the four-chunk budget
+    # that practice widens, and why small steps stop on the nearest hill.
     "02_Making_It_Stay": [
         "README.md",
         "spaced_retrieval",
         "interleaving",
         "cognitive_load",
+        "focused_and_diffuse",
     ],
     # Beliefs, checked like any other claim: the one that stops you trying and
     # so never meets the evidence, and the cutoff hidden under a confident
