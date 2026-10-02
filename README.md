@@ -33,6 +33,7 @@ The examples are **stdlib-only, on purpose**. If you have `python3`, you can run
 | [Spaced retrieval](02_Making_It_Stay/spaced_retrieval/README.md) | The forgetting curve, why testing beats rereading, the study cycle, and why a geometric review schedule makes remembering cost a logarithm |
 | [Interleaving](02_Making_It_Stay/interleaving/README.md) | A blocked sheet of volume problems asks you to choose a formula 4 times in 12, a mixed exam 7 in 8; a student who reuses the last formula scores 75% on the sheet and 25% on the exam |
 | [Cognitive load](02_Making_It_Stay/cognitive_load/README.md) | Working memory holds about four chunks, and a chunk is whatever practice made automatic: (a+b)² = a² + 2ab + b² is 19 items to a beginner and 1 to an expert |
+| [Focused and diffuse thinking](02_Making_It_Stay/focused_and_diffuse/README.md) | Small uphill steps stop on the nearest hill: a thousand focused steps end where three did, a wide survey finds the right hill but not its top, and focus, step back, focus again reaches the answer in fifteen looks |
 
 [**03_Believing_You_Can/**](03_Believing_You_Can/README.md) — *What does a belief have to do with the evidence?*
 

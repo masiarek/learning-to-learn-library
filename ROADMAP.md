@@ -6,7 +6,7 @@ What exists, and what is deliberately not written yet. A topic listed here has *
 
 **[01_Knowing_What_You_Know](01_Knowing_What_You_Know/README.md)** — how do you know that you know? Three lessons after McGuire's *Teach Yourself How to Learn*, chapters 3 and 4: [metacognition](01_Knowing_What_You_Know/metacognition/README.md), [count the vowels](01_Knowing_What_You_Know/count_the_vowels/README.md), [studying vs learning](01_Knowing_What_You_Know/studying_vs_learning/README.md).
 
-**[02_Making_It_Stay](02_Making_It_Stay/README.md)** — how do you learn so that it lasts? [Spaced retrieval](02_Making_It_Stay/spaced_retrieval/README.md), [interleaving](02_Making_It_Stay/interleaving/README.md), [cognitive load](02_Making_It_Stay/cognitive_load/README.md).
+**[02_Making_It_Stay](02_Making_It_Stay/README.md)** — how do you learn so that it lasts? [Spaced retrieval](02_Making_It_Stay/spaced_retrieval/README.md), [interleaving](02_Making_It_Stay/interleaving/README.md), [cognitive load](02_Making_It_Stay/cognitive_load/README.md), and, from Oakley and Sejnowski's *Learning How to Learn*, [focused and diffuse thinking](02_Making_It_Stay/focused_and_diffuse/README.md).
 
 **[03_Believing_You_Can](03_Believing_You_Can/README.md)** — what does a belief have to do with the evidence? [Learned helplessness](03_Believing_You_Can/learned_helplessness/README.md) and [day or night](03_Believing_You_Can/day_or_night/README.md), after Zakrajsek's *The New Science of Learning*, chapters 1 and 2.
 
@@ -28,10 +28,12 @@ A **lesson** needs an argument and a program that demonstrates it, with no inven
 
 ## Not planned as lessons
 
+- **Memory palace, procrastination as habit, and the other chapters of Oakley and Sejnowski's *Learning How to Learn*** that [focused and diffuse thinking](02_Making_It_Stay/focused_and_diffuse/README.md) maps to existing lessons: no program shows them. Procrastination as hyperbolic discounting, above, is the one exception with a program idea.
+
 - **Group study, office hours, test-taking tactics** (McGuire's strategies 13, 27–32, 34, 35): advice with no program to show it. The [strategies table](01_Knowing_What_You_Know/README.md#mcguires-strategies-and-where-they-are-explained) lists them.
 - **Sleep stages, exercise dose, diet and supplements as protocols.** The evidence for anything finer than the graded pages already say is weak, and a page that told a reader when to exercise or what to take would be pretending otherwise.
 - **Gestalt laws of perception** (Zakrajsek's chapter 6): real, but about perception rather than study, and hard to make a claim about that a program tests.
 
 ## Moved from the math library
 
-This library began as chapter 12 of the [math library ↗](https://masiarek.github.io/math-learning-library/), *Learning to Learn*. The nine lessons kept their folder names, so an old URL such as `12_Learning_to_Learn/spaced_retrieval/` maps to `02_Making_It_Stay/spaced_retrieval/` here, and the math library's chapter page points across.
+This library began as chapter 12 of the [math library ↗](https://masiarek.github.io/math-learning-library/), *Learning to Learn*. The ten lessons kept their folder names, so an old URL such as `12_Learning_to_Learn/spaced_retrieval/` maps to `02_Making_It_Stay/spaced_retrieval/` here, and the math library's chapter page points across.

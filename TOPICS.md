@@ -24,6 +24,9 @@ The chapter numbers are the suggested reading order, and each chapter is one arg
     - **Working memory** · from [Making It Stay](02_Making_It_Stay/README.md)
         - [Cognitive load](02_Making_It_Stay/cognitive_load/README.md) — Sweller, intrinsic, extraneous, germane, chunk, working memory span, automaticity, schema, byte-pair encoding
         - ↪ [Count the vowels](01_Knowing_What_You_Know/count_the_vowels/README.md) — an organising principle holds fifteen phrases as one idea
+    - **The hour of work** · from [Making It Stay](02_Making_It_Stay/README.md)
+        - [Focused and diffuse thinking](02_Making_It_Stay/focused_and_diffuse/README.md) — Oakley's pinball, Magnus Carlsen, local maximum, hill climbing, Einstellung effect, incubation, Poincaré, Pomodoro, hard start jump to easy, default mode network, how sure each claim is
+        - ↪ [Spaced retrieval](02_Making_It_Stay/spaced_retrieval/README.md#the-study-cycle-spacing-built-into-a-week) — the break in McGuire's intense study session is the same step away
 - **Believing you can**
     - **Beliefs as rules for evidence** · from [Believing You Can](03_Believing_You_Can/README.md)
         - [Learned helplessness](03_Believing_You_Can/learned_helplessness/README.md) — Hiroto and Seligman, rule of succession, explore–exploit, start small, vicarious success, personalization, pervasiveness, permanence, ABC technique
@@ -66,6 +69,7 @@ The techniques that feel worse and work better.
 2. [Interleaving](02_Making_It_Stay/interleaving/README.md) — the mixed sheet scores lower in practice and higher on the exam.
 3. [How memory works](05_Body_and_Brain/how_memory_works/README.md#desirable-difficulties) — Bjork's name for the pattern, pretesting, and why learners misjudge it.
 4. [Learning with AI](04_Planning_the_Work/learning_with_ai/README.md) — the tool that removes every difficulty, desirable ones included, unless asked not to.
+5. [Focused and diffuse thinking](02_Making_It_Stay/focused_and_diffuse/README.md) — the one difficulty that is not desirable: more focus on a stuck problem, which only climbs the same hill again.
 
 ### Start small
 

@@ -28,9 +28,13 @@
 
 **Desirable difficulty** — Bjork's term for a condition that makes learning harder now and better later: retrieval, spacing, interleaving. See [how memory works](05_Body_and_Brain/how_memory_works/README.md#desirable-difficulties).
 
+**Einstellung effect** — the first idea that comes to mind blocking a better one; in the lesson's model, the hill the first step landed on. See [focused and diffuse thinking](02_Making_It_Stay/focused_and_diffuse/README.md).
+
 **Egocentric bias** — remembering our part in a success as larger, and in a failure as smaller, than it was. See [mindset and motivation](05_Body_and_Brain/mindset_and_motivation/README.md).
 
 **Evidence grade** — this library's substitute for a program where none can check a claim: well established, good evidence, weak, speculative. See [05_Body_and_Brain](05_Body_and_Brain/README.md).
+
+**Focused and diffuse modes** — Oakley's names for attending to one problem and letting the mind wander; the lesson models them as small and large steps on a landscape, the first stopping on the nearest hill. See [focused and diffuse thinking](02_Making_It_Stay/focused_and_diffuse/README.md).
 
 **Forgetting curve** — Ebbinghaus's finding that memory fades fast at first and then slowly. See [spaced retrieval](02_Making_It_Stay/spaced_retrieval/README.md).
 
